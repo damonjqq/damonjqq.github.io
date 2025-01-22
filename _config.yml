@@ -27,7 +27,7 @@ author:
   bio              : "HIT"
   location         : "China"
   employer         : 
-  uri              : "https://damonjqq.github.io/" # URL
+  uri              : https://damonjqq.github.io/ # URL
   email            : "damon.yjq@gmail.com" 
 
   # Academic websites
